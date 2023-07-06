@@ -1,0 +1,26 @@
+.body{
+    color: black;
+}
+
+.menu{
+    width: 250px;
+    border-radius: 0px;
+    height: 100%;
+}
+
+.side-bar{
+    display: contents;
+    color: black;
+    
+    
+}
+
+.work{
+    width: 600px;
+    margin-top: 50px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
